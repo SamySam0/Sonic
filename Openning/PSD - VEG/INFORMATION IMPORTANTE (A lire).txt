@@ -1,0 +1,1 @@
+Toute image (hors background et quelques sprites) incluant bouttons, screens, animations, menus... on été designés par nous même.
